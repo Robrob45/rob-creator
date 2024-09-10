@@ -32,7 +32,7 @@ span{
     font-size: 30px;
     color: var(--text-color);
     font-weight: 700;
-    display:flexblock;
+    display:flexbox;
     padding: auto;
     opacity: 60%;
     backdrop-filter: blur(35px);
