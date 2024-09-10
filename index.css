@@ -39,7 +39,7 @@ span{
 }
 
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5),#009688), url(Image/eyo.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.5),#009688), url(Image/barber.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
