@@ -106,6 +106,7 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #fff;
+    line-height: 4.0;
 }
 #menuBtn{
     width: 50px;
@@ -350,7 +351,7 @@ hr{
     margin-right: 20px;
     border-radius: 3px;
 }
-.user-info .ri{
+.user-info .bx{
     margin-left: 10px;
     color: #27c0ff;
     font-size: 20px;
