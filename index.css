@@ -305,7 +305,8 @@ hr{
         margin-bottom: 30px;
     }
     .Service-desc p{
-        font-size: 10px; 
+        font-size: 10px;
+        margin-bottom: -30px; 
     }
     .Single-service:hover .Service-desc{
         bottom: 25% !important;
